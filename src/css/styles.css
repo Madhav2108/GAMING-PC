@@ -154,6 +154,54 @@ h5, .h5 {
 }
 
 
+.cursor.cursor-dot.active-blog-post-1,
+.cursor.cursor-dot.active-blog-post-2,
+.cursor.cursor-dot.active-blog-post-3,
+.cursor.cursor-dot.active-blog-post-4,
+.cursor.cursor-dot.active-blog-post-5,
+.cursor.cursor-dot.active-blog-post-6,
+.cursor.cursor-dot.active-blog-post-7 {
+	  opacity: 0;
+}
+.cursor-shadow.active-blog-post-1,
+.cursor-shadow.active-blog-post-2,
+.cursor-shadow.active-blog-post-3,
+.cursor-shadow.active-blog-post-4,
+.cursor-shadow.active-blog-post-5,
+.cursor-shadow.active-blog-post-6,
+.cursor-shadow.active-blog-post-7 {
+	  --size: 160px;
+  	border-color: rgba(255,255,255, 0);
+	  border-width: 0;
+	  background-color: transparent;
+	  background-position: center center;
+	  background-repeat: no-repeat;
+  	background-size: cover;
+	  border-radius: 50%;
+  	z-index: 1;
+}
+.cursor-shadow.active-blog-post-1 {
+	  background-image: url();
+}
+.cursor-shadow.active-blog-post-2 {
+	  background-image: url();
+}
+.cursor-shadow.active-blog-post-3 {
+	  background-image: url();
+}
+.cursor-shadow.active-blog-post-4 {
+	  background-image: url();
+}
+.cursor-shadow.active-blog-post-5 {
+	  background-image: url();
+}
+.cursor-shadow.active-blog-post-6 {
+	  background-image: url();
+}
+.cursor-shadow.active-blog-post-7 {
+	  background-image: url();
+}
+
 /* bbbbbbbbbbbb */
 .blog-nav {
     position: relative;
