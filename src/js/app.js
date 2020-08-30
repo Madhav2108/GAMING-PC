@@ -23,4 +23,28 @@ $('.cursor').removeClass("active")
 $(".cursor-link-blog-post-1")
 	.on("mouseenter", function() {	 
 	$('.cursor').addClass("active-blog-post-1")	  
-	})
+    })
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-1")	  
+})	
+//Blog post 2:
+$(".cursor-link-blog-post-2")
+.on("mouseenter", function() {	 
+        $('.cursor').addClass("active-blog-post-2")	  
+        })
+.on("mouseleave", function() {	  
+        $('.cursor').removeClass("active-blog-post-2")	  
+        })	
+        //Blog post 3:
+        $(".cursor-link-blog-post-3")
+.on("mouseenter", function() {	 
+        $('.cursor').addClass("active-blog-post-3")	  
+        })
+.on("mouseleave", function() {	  
+        $('.cursor').removeClass("active-blog-post-3")	  
+        })		
+        //Blog post 4:
+        $(".cursor-link-blog-post-4")
+.on("mouseenter", function() {	 
+        $('.cursor').addClass("active-blog-post-4")	  
+        })
