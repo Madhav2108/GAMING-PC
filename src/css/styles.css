@@ -201,58 +201,58 @@ h5, .h5 {
   	z-index: 1;
 }
 .cursor-shadow.active-blog-post-1 {
-	  background-image: url();
+	  background-image: url(../img/1.jpg);
 }
 .cursor-shadow.active-blog-post-2 {
-	  background-image: url();
+	  background-image: url(../img/2.jpg);
 }
 .cursor-shadow.active-blog-post-3 {
-	  background-image: url();
+	  background-image: url(../img/3.jpg);
 }
 .cursor-shadow.active-blog-post-4 {
-	  background-image: url();
+	  background-image: url(../img/4.jpg);
 }
 .cursor-shadow.active-blog-post-5 {
-	  background-image: url();
+	  background-image: url(../img/5.jpg);
 }
 .cursor-shadow.active-blog-post-6 {
-	  background-image: url();
+	  background-image: url(../img/6.jpg);
 }
 .cursor-shadow.active-blog-post-7 {
-	  background-image: url();
+	  background-image: url(../img/7.jpg);
 }
 .cursor-shadow.active-blog-post-8 {
-    background-image: url();
+    background-image: url(../img/8.jpg);
 }
 .cursor-shadow.active-blog-post-9 {
-    background-image: url();
+    background-image: url(../img/9.jpg);
 }
 .cursor-shadow.active-blog-post-10 {
-    background-image: url();
+    background-image: url(../img/10.jpg);
 }
 .cursor-shadow.active-blog-post-11 {
-    background-image: url();
+    background-image: url(../img/11.jpg);
 }
 .cursor-shadow.active-blog-post-12 {
-    background-image: url();
+    background-image: url(../img/12.jpg);
 }
 .cursor-shadow.active-blog-post-13 {
-    background-image: url();
+    background-image: url(../img/13.jpg);
 }
 .cursor-shadow.active-blog-post-14 {
-    background-image: url();
+    background-image: url(../img/14.jpg);
 }
 .cursor-shadow.active-blog-post-15 {
-    background-image: url();
+    background-image: url(../img/15.jpg);
 }
 .cursor-shadow.active-blog-post-16 {
-    background-image: url();
+    background-image: url(../img/16.jpg);
 }
 .cursor-shadow.active-blog-post-17 {
-    background-image: url();
+    background-image: url(../img/17.jpg);
 }
 
-link-to-portfolio {
+.link-to-portfolio {
     position: fixed;
   top: 30px;
   right: 30px;
@@ -264,7 +264,7 @@ link-to-portfolio {
   border-radius: 3px;
   background-position: center center;
   background-size: cover;
-  background-image: url();
+  background-image: url(../img/mnk.jpg);
   box-shadow: 0 0 0 2px rgba(255,255,255,.1);
   transition: opacity .2s, border-radius .2s, box-shadow .2s;
   transition-timing-function: ease-out;
