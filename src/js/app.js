@@ -20,3 +20,7 @@ $('.cursor').addClass("active")
 .on("mouseleave", function() {	  
 $('.cursor').removeClass("active")	  
 })		
+$(".cursor-link-blog-post-1")
+	.on("mouseenter", function() {	 
+	$('.cursor').addClass("active-blog-post-1")	  
+	})
