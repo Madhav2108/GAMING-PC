@@ -160,7 +160,17 @@ h5, .h5 {
 .cursor.cursor-dot.active-blog-post-4,
 .cursor.cursor-dot.active-blog-post-5,
 .cursor.cursor-dot.active-blog-post-6,
-.cursor.cursor-dot.active-blog-post-7 {
+.cursor.cursor-dot.active-blog-post-7,
+.cursor.cursor-dot.active-blog-post-8,
+.cursor.cursor-dot.active-blog-post-9,
+.cursor.cursor-dot.active-blog-post-10,
+.cursor.cursor-dot.active-blog-post-11,
+.cursor.cursor-dot.active-blog-post-12,
+.cursor.cursor-dot.active-blog-post-13,
+.cursor.cursor-dot.active-blog-post-14,
+.cursor.cursor-dot.active-blog-post-15,
+.cursor.cursor-dot.active-blog-post-16,
+.cursor.cursor-dot.active-blog-post-17 {
 	  opacity: 0;
 }
 .cursor-shadow.active-blog-post-1,
@@ -169,7 +179,17 @@ h5, .h5 {
 .cursor-shadow.active-blog-post-4,
 .cursor-shadow.active-blog-post-5,
 .cursor-shadow.active-blog-post-6,
-.cursor-shadow.active-blog-post-7 {
+.cursor-shadow.active-blog-post-7,
+.cursor-shadow.active-blog-post-8,
+.cursor-shadow.active-blog-post-9,
+.cursor-shadow.active-blog-post-10,
+.cursor-shadow.active-blog-post-11,
+.cursor-shadow.active-blog-post-12,
+.cursor-shadow.active-blog-post-13,
+.cursor-shadow.active-blog-post-14,
+.cursor-shadow.active-blog-post-15,
+.cursor-shadow.active-blog-post-16,
+.cursor-shadow.active-blog-post-17{
 	  --size: 160px;
   	border-color: rgba(255,255,255, 0);
 	  border-width: 0;
@@ -201,6 +221,37 @@ h5, .h5 {
 .cursor-shadow.active-blog-post-7 {
 	  background-image: url();
 }
+.cursor-shadow.active-blog-post-8 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-9 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-10 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-11 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-12 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-13 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-14 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-15 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-16 {
+    background-image: url();
+}
+.cursor-shadow.active-blog-post-17 {
+    background-image: url();
+}
+
 
 /* bbbbbbbbbbbb */
 .blog-nav {

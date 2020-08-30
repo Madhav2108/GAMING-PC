@@ -77,6 +77,86 @@ $('.cursor').addClass("active-blog-post-7")
 .on("mouseleave", function() {	  
 $('.cursor').removeClass("active-blog-post-7")	  
 })
+//Blog post 8:
+$(".cursor-link-blog-post-8")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-8")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-8")	  
+})
+//Blog post 9:
+$(".cursor-link-blog-post-9")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-9")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-9")	  
+})
+//Blog post 10:
+$(".cursor-link-blog-post-10")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-10")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-10")	  
+})
+//Blog post 11:
+$(".cursor-link-blog-post-11")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-11")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-11")	  
+})
+//Blog post 12:
+$(".cursor-link-blog-post-12")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-12")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-12")	  
+})
+//Blog post 13:
+$(".cursor-link-blog-post-13")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-13")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-13")	  
+})
+//Blog post 14:
+$(".cursor-link-blog-post-14")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-14")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-14")	  
+})
+//Blog post 15:
+$(".cursor-link-blog-post-15")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-15")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-15")	  
+})
+//Blog post 16:
+$(".cursor-link-blog-post-16")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-16")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-16")	  
+})
+//Blog post 17:
+$(".cursor-link-blog-post-17")
+.on("mouseenter", function() {	 
+$('.cursor').addClass("active-blog-post-17")	  
+})
+.on("mouseleave", function() {	  
+$('.cursor').removeClass("active-blog-post-17")	  
+})
 
 
 //Parallax & fade on scroll	
